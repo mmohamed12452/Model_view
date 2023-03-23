@@ -13,7 +13,7 @@ else
         host:'dpg-cgeajug2qv21ab4d87u0-a',
         dialect:'mysql',
         port:5432,
-        password:'Password'
+        password:'N5yquibtEaTVIi7ur9wYtz3EmlXaLYvf'
     });
 }
 module.exports = sequelize;

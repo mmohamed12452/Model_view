@@ -30,3 +30,15 @@ https://blog-fd7s.onrender.com
 
 ## CREDITS TO
 Mohamed Mohamed
+
+<img width="1280" alt="Screenshot 2023-03-23 160846" src="https://user-images.githubusercontent.com/119647704/227365436-e39ae25b-fcbb-4158-854f-9f3d0953b3b1.png">
+
+<img width="1044" alt="Screenshot 2023-03-23 161104" src="https://user-images.githubusercontent.com/119647704/227365476-3d997b8c-1f6a-4c5b-bad2-2d9b735ccc4e.png">
+
+<img width="1011" alt="Screenshot 2023-03-23 161253" src="https://user-images.githubusercontent.com/119647704/227365516-a2660143-c80e-4674-a130-2b26bcf406d7.png">
+
+<img width="1280" alt="Screenshot 2023-03-23 161433" src="https://user-images.githubusercontent.com/119647704/227365535-962ed241-f873-4efe-b450-c46406712c5b.png">
+
+<img width="1279" alt="Screenshot 2023-03-23 161626" src="https://user-images.githubusercontent.com/119647704/227365563-44e73959-b0c2-440d-9270-4f9e23c474ef.png">
+
+<img width="1280" alt="Screenshot 2023-03-23 161848" src="https://user-images.githubusercontent.com/119647704/227365589-fa36d16c-a395-432a-9c12-698a1b294b86.png">
